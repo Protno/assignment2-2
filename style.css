@@ -5,6 +5,24 @@
 
 /* end google font- */
 
+/* responsive making */
+
+
+@media (max-width:950px) {
+    .all-popular-collections{
+        
+        grid-template-columns:repeat(1fr) ;
+    }
+    
+    footer{
+        width: 100%;
+    }
+}
+@media (max-width:800px) {
+    
+}
+
+/* responsive making end */
 body{
     font-family: sans-serif;
    
