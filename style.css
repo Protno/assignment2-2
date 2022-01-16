@@ -11,7 +11,7 @@
 @media (max-width:950px) {
     .all-popular-collections{
         
-        grid-template-columns:repeat(1fr) ;
+        grid-template-columns:1fr ;
     }
     
     footer{
